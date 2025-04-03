@@ -1,3 +1,3 @@
 # Node_Health
 
-# By using below commands we can check our servers node health
+# By following this bash script we can check our server node health
